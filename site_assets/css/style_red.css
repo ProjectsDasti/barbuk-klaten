@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,900,100,600,400,500,800);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+@import url(http://fonts.googleapis.com/css?family=Raleway:300,900,100,600,400,500,800);
 @import url(https://fonts.googleapis.com/css?family=Dosis:400,300,500,700,800,600);
 @font-face {
   font-family: 'Dosis-Regular';
@@ -206,14 +206,14 @@ p.para{font-size:16px;margin:50px 0;line-height:28px;color:#616161;padding:5px}
 .about-cor{padding:0 25px;display:table-cell;vertical-align:middle;height:600px}
 .about-text{display:table-cell;vertical-align:middle;height:600px;padding:8px}
 .about-i p{margin-top:10px;margin-left:125px;color:#333}
-.about-cor-a{background:url(../img/about/about.html) no-repeat scroll center center / cover;height:600px;margin:0}
-.about-cor-b{background:url(../img/about/about2.html) no-repeat scroll center center / cover;height:600px;margin:0}
+.about-cor-a{background:url(../img/about/about.jpg) no-repeat scroll center center / cover;height:600px;margin:0}
+.about-cor-b{background:url(../img/about/about2.jpg) no-repeat scroll center center / cover;height:600px;margin:0}
 .about-b{float:left;background:#E74C3C;border-radius:10%;color:#fff;font-size:24px;padding:10px;border:1px solid #E74C3C;width:55px;height:55px;margin-right:31px;margin-left:15px}
 .about-b i.fa{margin-right:15px;color:#353e47;font-size:24px;margin-right:35px;padding:4px}
 .about-c{float:left;color:#fff;font-size:24px;padding:10px;border:1px solid #E74C3C;width:55px;height:55px;margin-right:31px;margin-left:15px}
 .about-c i.fa{margin-right:15px;color:#E74C3C;font-size:24px;margin-right:35px;padding:4px}
 .about-d{float:left;color:#fff;font-size:24px;width:55px;height:55px;margin-right:31px;margin-left:15px}
-.about-ag-b{background:url(../img/about/about-ag-1.html) scroll center center / cover;height:600px;margin:0}
+.about-ag-b{background:url(../img/about/about-ag-1.jpg) scroll center center / cover;height:600px;margin:0}
 #about-i{background:#E74C3C}
 .about-bus p{margin-top:25px;margin-bottom:25px}
 .about-deg{float:left;color:#333;font-size:24px;padding:10px;border:2px solid #353e47;width:90px;height:90px;border-radius:50px;margin:5px 25px 5px 15px}
@@ -225,10 +225,10 @@ p.para{font-size:16px;margin:50px 0;line-height:28px;color:#616161;padding:5px}
 .about-i .about-text .about-deg i{color:#fff}
 .about-i .about-text .about-heading h3{color:#fff}
 .about-i .about-text .about-heading p{color:#fff}
-.about-img-bus-w{background:url(../img/about/bus-bg.html) no-repeat scroll center center / cover;height:600px;margin:0}
-.about-img-bus-p{background:url(../img/about/bus-bg-2.html) no-repeat scroll center center / cover;height:600px;margin:0}
-.about-img-bus-f{background:url(../img/about/bus-bg-3.html) no-repeat scroll center center / cover;height:600px;margin:0}
-.about-ma-a{background:url(../img/about/about3.html) no-repeat scroll center center / cover;height:600px;margin:0}
+.about-img-bus-w{background:url(../img/about/bus-bg.jpg) no-repeat scroll center center / cover;height:600px;margin:0}
+.about-img-bus-p{background:url(../img/about/bus-bg-2.jpg) no-repeat scroll center center / cover;height:600px;margin:0}
+.about-img-bus-f{background:url(../img/about/bus-bg-3.jpg) no-repeat scroll center center / cover;height:600px;margin:0}
+.about-ma-a{background:url(../img/about/about3.jpg) no-repeat scroll center center / cover;height:600px;margin:0}
 .about-ma-list{padding:15px 0 0 15px;margin-top:55px}
 .about-start-up{background:#E74C3C}
 .item .caption h5{text-align:center;font-size:13px;margin-bottom:20px;margin-top:7px}
@@ -398,7 +398,7 @@ label{font-size:12px;font-weight:400;font-family:'Open Sans',sans-serif;float:le
 a.accordion-toggle i{width:45px;line-height:46px;font-size:28px;margin-top:-8px;text-align:center;margin-right:-5px;color:#fff;background:#E74C3C;border-radius:30px}
 .panel-heading.active a.accordion-toggle i{background:#E74C3C;color:#353e47}
 .panel-heading.active a.accordion-toggle.collapsed i{color:#353e47}
-#skills{padding:60px 0;background:url(../img/skill-bg.html) no-repeat;background-size:cover;background-attachment:fixed}
+#skills{padding:60px 0;background:url(../img/skill-bg.jpg) no-repeat;background-size:cover;background-attachment:fixed}
 #skills p{color:#474d5d}
 #skills .skill{margin-bottom:40px;text-align:center;padding:0}
 #skills .skill h4{font-size:20px;font-family:'Open+Sans',sans-serif}
@@ -595,7 +595,7 @@ nav#footer p{font-size:15px;margin-top:30px;padding:20px 0 30px;color:#999;font-
 .footer-widget-social a:hover{background-color:#fff;color:#E74C3C}
 .f-b{color:#999;text-align:left;padding:0 10px;font-family:'Open+Sans',sans-serif;font-size:14px;text-transform:none;letter-spacing:1px;line-height:40px}
 #footer i.fa:hover{color:#353e47;background:#E74C3C}
-header{background-image:url(../img/fixed-portfolio-img.html);background-repeat:none;background-attachment:scroll;background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;text-align:center;color:#fff}
+header{background-image:url(../img/fixed-portfolio-img.jpg);background-repeat:none;background-attachment:scroll;background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;text-align:center;color:#fff}
 header .demo-intro-text{padding-top:70px;padding-bottom:50px}
 header .demo-intro-text .intro-lead-in{font-style:italic;font-size:20px;line-height:22px;margin-bottom:25px}
 header .demo-intro-text .intro-heading{text-transform:uppercase;font-weight:700;font-size:50px;line-height:50px;margin-bottom:25px}
@@ -606,7 +606,7 @@ header .demo-intro-text .intro-heading{text-transform:uppercase;font-weight:700;
 .demo-item-block{border-top:1px solid #dfdfdf}
 .demos{margin-top:0;margin-bottom:0;border-bottom:1px solid #dfdfdf;border-right:1px solid #dfdfdf;padding:70px 0}
 .demos:nth-child(2){border-right:0}
-#demo-intro-bg{top:0;left:0;width:100%;height:100%;text-align:center;margin:0;padding:0;background-color:#C0DEED;background:url(../img/intro-bg.html) no-repeat;padding-top:83px;padding-bottom:83px;width:100%;animation:awan-animasi 50s linear infinite;-ms-animation:awan-animasi 50s linear infinite;-moz-animation:awan-animasi 50s linear infinite;-webkit-animation:awan-animasi 50s linear infinite}
+#demo-intro-bg{top:0;left:0;width:100%;height:100%;text-align:center;margin:0;padding:0;background-color:#C0DEED;background:url(../img/intro-bg.jpg) no-repeat;padding-top:83px;padding-bottom:83px;width:100%;animation:awan-animasi 50s linear infinite;-ms-animation:awan-animasi 50s linear infinite;-moz-animation:awan-animasi 50s linear infinite;-webkit-animation:awan-animasi 50s linear infinite}
 .demo-intro-text .intro-lead-in{font-size:16px;line-height:28px;color:#999;margin-bottom:25px;font-family:'Raleway',sans-serif;letter-spacing:1px}
 .demo-intro-logo{padding:0 0 20px;text-align:center}
 .demo-intro-text .intro-heading{font-size:45px;padding:25px 0 0px;color:#fff;font-family:'Raleway',sans-serif;font-weight:300;text-transform:uppercase;line-height:normal;letter-spacing:2px}
